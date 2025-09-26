@@ -8,9 +8,8 @@
 
 ## About Me :
 
-- 🎓 Estudiante de **Diseño y Desarrollo de Software**  
-- 📚 Actualmente cursando **Ingeniería de Requerimientos y Diseño de Software**  
-- 💻 Apasionado por el desarrollo en **Java, Python, PHP y JavaScript**  
+- 🎓 Estudiante de **Diseño y Desarrollo de Software**   
+- 💻 Apasionado por el desarrollo en **Java, Python, PHP, Django, React, y JavaScript**  
 - 🌱 Interesado en **Seguridad Industrial, Sistemas de Gestión e Inteligencia Artificial**  
 - 🏡 Vivo en **Arequipa, Perú**  
 - ⚡ **Fun Facts** : 🎮 🎧 🎬 ⚽
