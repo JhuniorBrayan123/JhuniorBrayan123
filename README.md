@@ -19,11 +19,12 @@
 
 ## Connect with me ☕ :
 
-[![@jhuniorgutierrezm](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jhuniorgutierrezm")](https://www.instagram.com/jhuniorgutierrezm/) 
-[![@JhuniorGutierrezm](https://img.icons8.com/fluency/48/000000/facebook.png "@JhuniorGutierrezm")](https://www.facebook.com/jhuniorgutierrezm) 
-[![@jhunior-gutierrez](https://img.icons8.com/fluency/48/000000/linkedin.png "@jhunior-gutierrez")](https://www.linkedin.com/in/jhunior-gutierrez/) 
-[![@jhunior](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@jhunior")](https://twitter.com/)  
-[![@email](https://img.icons8.com/fluency/48/000000/apple-mail.png "@email")](mailto:jhunior.gutierrezm@gmail.com)
+## Connect with me ☕ :
+
+[![@jhuniorgutierrez_21](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jhuniorgutierrez_21")](https://www.instagram.com/jhuniorgutierrez_21/)  
+[![@brayan.gutierrez.05](https://img.icons8.com/fluency/48/000000/facebook.png "@brayan.gutierrez.05")](https://www.facebook.com/brayan.gutierrez.05?locale=es_LA)  
+[![@jhunior-brayan-gutierrez-mamani](https://img.icons8.com/fluency/48/000000/linkedin.png "@jhunior-brayan-gutierrez-mamani")](https://www.linkedin.com/in/jhunior-brayan-gutierrez-mamani/)
+
 
 ---
 
