@@ -19,11 +19,11 @@
 ## Connect with me ☕ :
 
 ## Connect with me ☕ :
-<p align="center">
-    [![@jhuniorgutierrez_21](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jhuniorgutierrez_21")](https://www.instagram.com/jhuniorgutierrez_21/)  
-    [![@brayan.gutierrez.05](https://img.icons8.com/fluency/48/000000/facebook.png "@brayan.gutierrez.05")](https://www.facebook.com/brayan.gutierrez.05?locale=es_LA)  
-    [![@jhunior-brayan-gutierrez-mamani](https://img.icons8.com/fluency/48/000000/linkedin.png "@jhunior-brayan-gutierrez-mamani")](https://www.linkedin.com/in/jhunior-brayan-gutierrez-mamani/)
-</p>
+
+[![@jhuniorgutierrez_21](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jhuniorgutierrez_21")](https://www.instagram.com/jhuniorgutierrez_21/)  
+[![@brayan.gutierrez.05](https://img.icons8.com/fluency/48/000000/facebook.png "@brayan.gutierrez.05")](https://www.facebook.com/brayan.gutierrez.05?locale=es_LA)  
+[![@jhunior-brayan-gutierrez-mamani](https://img.icons8.com/fluency/48/000000/linkedin.png "@jhunior-brayan-gutierrez-mamani")](https://www.linkedin.com/in/jhunior-brayan-gutierrez-mamani/)
+
 
 ---
 
