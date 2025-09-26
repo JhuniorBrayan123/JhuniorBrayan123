@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="profile-banner" src="./assets/oh_hi_there.png" width="300"/>
+    <img alt="Jhunior" src="./assets/Jhunior.png" width="300"/>
 </div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Hola soy Jhunior Brayan Gutierrez Mamani</h1>
