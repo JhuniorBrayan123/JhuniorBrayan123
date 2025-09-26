@@ -30,36 +30,38 @@
 
 ## What I am Good at 🧑‍💻 :
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/laravel.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/plasticine/48/react.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+</p>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
 
 ---
+
+
 
 ## GitHub Stats 📈 :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhuniorGutierrezm&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Jhunior GitHub stats](https://github-readme-stats.vercel.app/api?username=jhuniorGutierrezm&theme=algolia)](https://github.com/jhuniorGutierrezm/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhuniorGutierrezm&theme=algolia)](https://github.com/jhuniorGutierrezm/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JhuniorBrayan123&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
----
+[![Jhunior's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhuniorBrayan123&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
 
-## GitHub Trophies 🏆 :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jhuniorGutierrezm&theme=algolia)](https://github.com/jhuniorGutierrezm/github-profile-trophy)
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhuniorBrayan123&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity Graph 📊 :
 
-[![Jhunior's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhuniorGutierrezm&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jhunior's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhuniorBrayan123&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
